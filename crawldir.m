@@ -1,4 +1,4 @@
-function filePathArray = crawldir( directory, filePattern )
+function filePathArray = crawldir(directory,filePattern)
 %CRAWLDIR Recursively crawls a directory and all sub directories
 %   Will match files that follow the specified naming pattern
  
